@@ -1,3 +1,4 @@
+#!/bin/bash
 # Find Application
 
 # Find all files in the current folder
